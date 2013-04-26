@@ -1,0 +1,9 @@
+{
+	"name":"Knife",
+	"directory":"knife",
+	"thumbnail":"/knife/knife.jpg",
+	"screenshot":"/knife/knife.jpg",
+	"pageTypes":[],
+	"defaultColorSwatch":"Warmth 5",
+	"defaultFontSwatch":"Lato"
+}
